@@ -1,0 +1,31 @@
+{
+  "id": 12345,
+  "firstName": "sriram",
+  "lastName": "k",
+  "email": "sriram4dotnet@gmail.com",
+  "department": "Engineering",
+  "position": "Software Engineer",
+  "salary": 180000,
+  "hireDate": "2020-05-15",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345"
+  },
+  "skills": [ "C#", "DotNet", "React", "JavaScript", "SQL" ],
+  "projects": [
+    {
+      "name": "Project A",
+      "role": "Lead Developer",
+      "startDate": "2021-02-01",
+      "endDate": "2021-06-30"
+    },
+    {
+      "name": "Project B",
+      "role": "Developer",
+      "startDate": "2022-01-15",
+      "endDate": null
+    }
+  ]
+}
